@@ -12,7 +12,7 @@ h1 {
 }
 
 .map {
-    width: 1200px;  /* IMPORTANT: keep fixed for coords */
+    width: 1200px; 
     margin: 20px 0;
 }
 
@@ -46,4 +46,5 @@ p {
 
 .btn:hover {
     background-color: #167be7;
+
 }
